@@ -5,7 +5,11 @@
 ![Badge de Licença](https://img.shields.io/badge/css-3-blue.svg?style=flat-square&logo=css3)
 ![Badge de Versão](https://img.shields.io/badge/app-v_1.0.0-green.svg?style=flat-square&logo=app)
 
-Create a Responsive Timeline with HTML &amp; CSS – Step-by-Step Tutorial
+**Create a Responsive Timeline with HTML &amp; CSS – Step-by-Step Tutorial**
+
+
+
+[![](https://i.ytimg.com/an_webp/2QkOyrH3dFI/mqdefault_6s.webp?du=3000&sqp=CMqDn7kG&rs=AOn4CLC2OIuzBkQRV3NKYYJ_8pM_pPFtWQ)](https://www.youtube.com/watch?v=2QkOyrH3dFI)
 
 This repository showcases various ways to implement a timeline using only HTML and CSS. The goal is to provide a collection of timeline styles and layouts that can be easily adapted for different projects, whether for portfolios, personal sites, or business pages. Each example demonstrates unique approaches to styling and structuring a responsive timeline.
 
