@@ -9,7 +9,7 @@
 
 
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/2QkOyrH3dFI?si=6QaSezHmUBh5ldKW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+[![](http://img.youtube.com/vi/2QkOyrH3dFI/0.jpg))](https://www.youtube.com/watch?v=2QkOyrH3dFI)
 
 This repository showcases various ways to implement a timeline using only HTML and CSS. The goal is to provide a collection of timeline styles and layouts that can be easily adapted for different projects, whether for portfolios, personal sites, or business pages. Each example demonstrates unique approaches to styling and structuring a responsive timeline.
 
